@@ -89,5 +89,19 @@ In the current scenario, all garbage collectors are generational, and hence, opt
 
 Note: System.gc() and Runtime.gc() are the methods which requests for Garbage collection to JVM explicitly but it doesn’t ensures garbage collection as the final decision of garbage collection is of JVM only.
 
+assignment
+1) Create a branch   from master/main 
+git checkout -b main
+git branch
+2) add change to master 
+git checkout -b master
+git branch
+3)create a pull request with appropriate command 
+git pull repogistry path
+4) merge the pull request
+git pull 
+
+
+
 
 

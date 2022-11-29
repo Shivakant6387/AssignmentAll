@@ -1,6 +1,6 @@
-					-: Assignment 1 :-
-1)Can you use abstract and final both witha method ?
-ans :- An abstractkeyword cannot be used with variables and constructors. if a class is abstract, it cannot be instantiated.if a method is abstract, it does not  contain the body . we can not use abstract keyword with the final
+									-: Assignment 1 :-
+1)Can you use abstract and final both with a method ?
+ans :- An abstract keyword cannot be used with variables and constructors. if a class is abstract, it cannot be instantiated.if a method is abstract, it does not  contain the body . we can not use abstract keyword with the final
 :-An abstract keyword cannot be used with variables and constructors.
 :-if a class is abstract,it cannot be instantiated.
 :-if a method id abstract,it does not contain the body.
@@ -15,7 +15,7 @@ ans :-
 Constructor :-						 Method :-
 it is mainly used for initializing the object.    :-it is mainly used to reuse the code without writing							the code again.
 it is implicitly invoked by the system.		  :-A Method is called by the programmer.
-sub-class can not inherit oarent class 		  :-Sub-class can inherit method of the parent 	constructor.					  	class.
+sub-class can not inherit parent class 		  :-Sub-class can inherit method of the parent 	constructor.					  	class.
 it has no return type.it can or cannot return 	  :-so ,it has a return type.
 any value to the caller.
 4)Can we override the private methods
@@ -121,15 +121,14 @@ Yes, we can declare the main () method as final in Java. The compiler does not t
 ans:-No ;Interface only have abstract methods. methods. interface method can not be final . cannot be declared final.
 20)Distinguish between static loading and dynamic class loading ?
 ans:-The major difference between static and dynamic class loading is that in static loading retrieval of class definition and instantiation of the object is done at compile time, while in dynamic loading classes are loaded at run time using Class.
-
-
-
-
-
-
- 
-
-
-
+21)what is constructore in java
+ans:-A constructor in Java is similar to a method that is invoked when an object of the class is created.
+constructor is a similar to a method.constructor is same name of the class name and deffirent parameter and argument.
+22)what is  abstract keyword
+ans:- abstract is a non-access modifier in java applicable for classes, methods but not variables. It is used to achieve abstraction which is one of the pillar of Object Oriented Programming(OOP).
+The abstract keyword is a non-access modifier, used for classes and methods.
+Class: An abstract class is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+Method: An abstract method can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from).
+23)
 
 
