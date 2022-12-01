@@ -89,3 +89,13 @@ Create if and if/else and ternary constructs
 Use a switch statement
 Assignment: Study  Comparator,Comparable and its methods and show 2 examples each.
 Assignment: Study Top 20 Generics interview questions and answer with code.
+1)generic
+
+
+
+java 8 feature
+1)Interface & Abstract class
+2)Functional interface
+3)Lambda
+4)inbuld functional interface
+5)constructor (Super keyword)
